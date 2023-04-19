@@ -1,8 +1,8 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=purple"/></a>
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=green"/></a>
 
 <!--
 **zhujack26/zhujack26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
