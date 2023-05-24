@@ -2,23 +2,23 @@
 
 ## 🔭 Career & Activity
 
-# - IIR TECH 2020.09 ~ 2021.08
+- IIR TECH 2020.09 ~ 2021.08
   - Intern & Contract Worker, Participating in multilingual voice intelligence project 
-# - EnE Brigde : 2021.12 ~ 2022.03
+- EnE Brigde : 2021.12 ~ 2022.03
   - Intern, Recruitment Project Operation and Manpower Management
-# - SSAFY - The 8th Samsung Software Academy For Youth : 2022.07 ~ 2023.06
+- SSAFY - The 8th Samsung Software Academy For Youth : 2022.07 ~ 2023.06
   - Trainees, Studying python-track and Developing projects
 
 
 ## 🌱 Interest
 
-# - Languages
-    - C
-    - Python
-    - JavaScript
-    - Kotlin
-# - Frameworks
-    - Jetpack Compose
+- Languages
+  - C
+  - Python
+  - JavaScript
+  - Kotlin
+- Frameworks
+  - Jetpack Compose
     - React Native
 
 
