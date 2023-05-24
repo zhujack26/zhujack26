@@ -1,5 +1,3 @@
-### Hi 👋
-
 ## 🔭 Career & Activity
 
 - IIR TECH 2020.09 ~ 2021.08
@@ -19,7 +17,7 @@
   - Kotlin
 - Frameworks
   - Jetpack Compose
-    - React Native
+  - React Native
 
 
 <!--
