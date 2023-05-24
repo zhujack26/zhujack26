@@ -1,8 +1,26 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=purple"/></a>
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=green"/></a>
+### Hi 👋
+
+## 🔭 Career & Activity
+
+# - IIR TECH 2020.09 ~ 2021.08
+  - Intern & Contract Worker, Participating in multilingual voice intelligence project 
+# - EnE Brigde : 2021.12 ~ 2022.03
+  - Intern, Recruitment Project Operation and Manpower Management
+# - SSAFY - The 8th Samsung Software Academy For Youth : 2022.07 ~ 2023.06
+  - Trainees, Studying python-track and Developing projects
+
+
+## 🌱 Interest
+
+# - Languages
+    - C
+    - Python
+    - JavaScript
+    - Kotlin
+# - Frameworks
+    - Jetpack Compose
+    - React Native
+
 
 <!--
 **zhujack26/zhujack26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
